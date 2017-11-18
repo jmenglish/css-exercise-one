@@ -36,5 +36,6 @@ h3 {
   width: 100%;
 }
 
-div.element {background-color: blue
+.element.another-classname {
+ background-color: pink;
 }
