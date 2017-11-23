@@ -37,6 +37,6 @@ h3 {
 }
 
 /* this targets the last div element*/
-.element.another-classname {
+.element.classname {
  background-color: pink;
 }
